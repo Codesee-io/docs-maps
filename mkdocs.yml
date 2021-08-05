@@ -15,7 +15,8 @@ theme:
   custom_dir: overrides
   features:
     - navigation.tabs
-site_name: My Docs
+extra_css:
+  - stylesheets/extra.css
 extra:
   social:
     - icon: fontawesome/brands/twitter
