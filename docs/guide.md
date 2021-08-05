@@ -12,13 +12,13 @@ The arrows between files or folders indicate dependencies. Each dependency is re
 
 Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
 
-[visual of zooming]
+<!-- [visual of zooming] -->
 
 ### File browser
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items. 
 
-[visual of show and hide]
+<!-- [visual of show and hide] -->
 
 Right-click to bring up a menu to hide all selected items, or hide everything in the repository except for what you selected.
 
@@ -50,7 +50,7 @@ To assign colors to files or folders:
 1. Click the “Color” tool, then choose the color you’d like to paint with.
 1. Click on the files or folders you want to paint with that selected color.
 
-[visuals of legend + coloring nodes]
+<!-- [visuals of legend + coloring nodes] -->
 
 ### Notes
 
@@ -64,7 +64,7 @@ To add notes to files or folders:
 
 Notes on folders are available only when the folder is collapsed.
 
-[visual of Notes tool]
+<!-- [visual of Notes tool] -->
 
 ### Duplicate a map
 
@@ -72,7 +72,7 @@ To create a copy of a map, click on the overflow button (•••), then select
 
 > Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser](). 
 
-[visual of filtered view]
+<!-- [visual of filtered view] -->
 
 ## Sharing your map
 
