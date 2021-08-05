@@ -1,0 +1,16 @@
+# .readthedocs.yml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+# configuration verion
+version: 2
+# tell it to use mkdocs
+mkdocs:
+  configuration: mkdocs.yml
+  fail_on_warning: false
+# specify Python version
+python:
+  version: 3.7
+  # install the theme and associated requirements
+  install:
+    - requirements: requirements.txt
