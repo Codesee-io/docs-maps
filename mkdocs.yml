@@ -1,3 +1,23 @@
+site_name: CodeSee Maps Alpha
+nav:
+  - 👋 Welcome:
+    - Introduction: index.md
+  - 🛠 Installation:
+    - Overview: installation.md
+  - 🚀 Using CodeSee:
+    - User Guide: guide.md
+  - ❓ Need help?:
+    - Support: support.md
 theme:
   name: material
+  logo: img/CS-icon-for-docs.png
+  favicon: img/favicon-32x32.png
+  custom_dir: overrides
+  features:
+    - navigation.tabs
 site_name: My Docs
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/codeseeio
+copyright: Copyright &copy; 2021 CodeSee Inc

@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> CodeSee Maps is early alpha software. Contact us at support@codesee.io with support questions, feedback, or feature requests.
 
-## Commands
+CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports JavaScript, TypeScript, and will soon be compatible with other languages. Begin your journey with CodeSee Maps by following the [User Guide](/guide).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+CodeSee Maps in Action
+[slider to highlight 3-4 features]
 
-## Project layout
+First Steps (link to corresponding tabs/pages)
+Installation 
+User Guide
+Exploring your map 
+Editing your map
+Sharing your map
+Accessibility
+Keyboard Shortcut Reference Sheet
+Community Maps
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Privacy 
+By default, CodeSee auto-updates to new versions and collects usage data and crash report information. You may opt out of these defaults by sending an email to support@codesee.io.
