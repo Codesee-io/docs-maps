@@ -1,8 +1,5 @@
 # Overview
 
-
-> Looking for CodeSee Recordings' docs? Follow [this link](/).
-
 CodeSee Maps is **early alpha software**. Contact us at [support@codesee.io](mailto:support@codesee.io) with support questions, feedback, or feature requests.
 
 ---
@@ -23,6 +20,11 @@ CodeSee Maps creates a customizable and extensible architecture diagram of your 
 <!-- * Accessibility
 * Keyboard Shortcut Reference Sheet -->
 <!-- * Community Maps -->
+
+## CodeSee Recordings
+
+Looking for CodeSee Recordings' docs? Follow [this link](https://docs.codesee.io/recordings).
+
 
 ## Privacy 
 
