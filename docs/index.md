@@ -23,7 +23,7 @@ CodeSee Maps creates a customizable and extensible architecture diagram of your 
 
 ## CodeSee Recordings
 
-Looking for CodeSee Recordings' docs? Follow [this link](https://docs.codesee.io/recordings).
+Looking for CodeSee Recordings' docs? Follow [this link](https://docs.codesee.io/projects/recordings/en/latest/).
 
 
 ## Privacy 
