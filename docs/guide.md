@@ -16,7 +16,7 @@ Pan across your map with your mouse’s scroll wheel or by clicking and dragging
 
 ### File browser
 
-The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items. 
+The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
 <!-- [visual of show and hide] -->
 
@@ -52,9 +52,17 @@ To assign colors to files or folders:
 
 <!-- [visuals of legend + coloring nodes] -->
 
+### Hiding and showing
+
+By right-clicking on a file or folder, you'll get the following three options:
+
+- Hide selected from map
+- Show only selected from map
+- Show all
+
 ### Notes
 
-Use the Notes tool to add additional context to any file and folder. 
+Use the Notes tool to add additional context to any file and folder.
 
 To add notes to files or folders:
 
@@ -70,7 +78,7 @@ Notes on folders are available only when the folder is collapsed.
 
 To create a copy of a map, click on the overflow button (•••), then select “Duplicate map.”
 
-> Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser](). 
+> Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser]().
 
 <!-- [visual of filtered view] -->
 
