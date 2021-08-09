@@ -6,6 +6,8 @@ CodeSee Maps is **early alpha software**. Contact us at [support@codesee.io](mai
 
 CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports JavaScript, TypeScript, and will soon be compatible with other languages. Begin your journey with CodeSee Maps by following the [User Guide](./installation/).
 
+_CodeSee uses GitHub to generate dependencies between files and update your map to reflect changes in your codebase. We don't store your code, and your code never leaves the GitHub servers or your local machine._
+
 <!-- CodeSee Maps in Action
 [slider to highlight 3-4 features] -->
 
