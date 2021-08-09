@@ -52,7 +52,7 @@ To assign colors to files or folders:
 
 <!-- [visuals of legend + coloring nodes] -->
 
-### Hiding and showing
+### Right-Click Menu
 
 By right-clicking on a file or folder, you'll get the following three options:
 
@@ -78,7 +78,7 @@ Notes on folders are available only when the folder is collapsed.
 
 To create a copy of a map, click on the overflow button (•••), then select “Duplicate map.”
 
-> Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser]().
+> Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser](#file-browser) or the [Right-Click Menu](#right-click-menu).
 
 <!-- [visual of filtered view] -->
 
