@@ -54,11 +54,23 @@ To assign colors to files or folders:
 
 ### Right-Click Menu
 
-By right-clicking on a file or folder, you'll get the following three options:
+By right-clicking on a file or folder, you'll get the following options:
 
-- Hide selected from map
-- Show only selected from map
-- Show all
+#### Hide selected items
+
+This will hide the items you've selected from the map.
+
+#### Show only selected items
+
+This will hide all items that are not selected.
+
+#### Show all
+
+This will show all files and folders.
+
+#### Add/edit note
+
+This will allow annotating items.
 
 ### Notes
 
