@@ -54,6 +54,8 @@ To assign colors to files or folders:
 
 ### Right-Click Menu
 
+![Screenshot of CodeSee's right-click menu](img/right-click-menu.png)
+
 By right-clicking on a file or folder, you'll get the following options:
 
 #### Hide selected items
