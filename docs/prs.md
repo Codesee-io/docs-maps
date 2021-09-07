@@ -1,6 +1,6 @@
 # Pull Request Maps
 
-Once [a map is installed on a repository](./installation.md), pull request maps will be automatically generated for them.
+Once [a map is installed on a repository](./installation.md), Pull Request Maps will be automatically generated for every pull request made to the repository. 
 
 ## Generating A Pull Request Map
 
