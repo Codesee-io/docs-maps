@@ -28,7 +28,7 @@ The file browser also includes a search bar at the top, where you can filter by 
 
 ### Auto insights
 
-Once your map is created, CodeSee will automatically gather some insights into your repo and display them for you in an easy-to-understand way!
+CodeSee will automatically gather insights from your repository. Use the toggle switches to enable or disable the insights on your Map. 
 
 Your labels will be temporarily replaced by those corresponding to the insights themselves, but don't worry! All you have to do is disable the insight to restore yours!
 
