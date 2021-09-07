@@ -38,7 +38,7 @@ Below the File Browser, you'll find three insight types:
 
 - **Engineering Hot Spots**: See which files and folders have had the most recent commits.
 - **Latest Activity**: See when the last commit to a file or folder was made.
-- **Creation date**: See when the files/folders were created, relative to today's date
+- **Creation Date**: See when files and folders were created relative to today's date.
 
 ## Editing your map
 
