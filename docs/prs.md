@@ -2,7 +2,7 @@
 
 Once [a map is installed on a repository](./installation.md), pull request maps will be automatically generated for them.
 
-## Generating a pull request map
+## Generating A Pull Request Map
 
 Might sound straightforward, and that's because it is! All you have to do is create a pull request on your repo.
 
