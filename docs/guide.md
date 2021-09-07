@@ -30,7 +30,7 @@ The file browser also includes a search bar at the top, where you can filter by 
 
 CodeSee will automatically gather insights from your repository. Use the toggle switches to enable or disable the insights on your Map. 
 
-Your labels will be temporarily replaced by those corresponding to the insights themselves, but don't worry! All you have to do is disable the insight to restore yours!
+When Insights are displayed on your Map, your labels will be temporarily replaced by those corresponding to the insights themselves. To restore your labels, disable the Insight using the toggle switch.
 
 ![Screenshot of CodeSee's insights, showing the engineering hot spots insights](img/maps-insights.png)
 
