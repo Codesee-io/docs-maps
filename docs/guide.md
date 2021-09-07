@@ -26,6 +26,20 @@ Use this visibility feature to hide the parts of the repo that are not relevant 
 
 The file browser also includes a search bar at the top, where you can filter by the name of files or folders.
 
+### Auto insights
+
+Once your map is created, CodeSee will automatically gather some insights into your repo and display them for you in an easy-to-understand way!
+
+Your labels will be temporarily replaced by those corresponding to the insights themselves, but don't worry! All you have to do is disable the insight to restore yours!
+
+![Screenshot of CodeSee's insights, showing the engineering hot spots insights](img/maps-insights.png)
+
+Below the File Browser, you'll find three insight types:
+
+- **Engineering hot spots**: See how which files and folders have the most recent commits
+- **Latest activity**: See when the last commit to a file or folder was made
+- **Creation date**: See when the files/folders were created, relative to today's date
+
 ## Editing your map
 
 If you are the owner of a map, you also have tools to create annotations to help your team onboard to the codebase, understand team ownership, or learn key flows.
