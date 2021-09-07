@@ -14,7 +14,7 @@ Pan across your map with your mouse’s scroll wheel or by clicking and dragging
 
 <!-- [visual of zooming] -->
 
-### File browser
+### File Browser
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
@@ -26,9 +26,9 @@ Use this visibility feature to hide the parts of the repo that are not relevant 
 
 The file browser also includes a search bar at the top, where you can filter by the name of files or folders.
 
-### Auto insights
+### Auto Insights
 
-CodeSee will automatically gather insights from your repository. Use the toggle switches to enable or disable the insights on your Map. 
+CodeSee will automatically gather insights from your repository. Use the toggle switches to enable or disable Insights on your Map. 
 
 When Insights are displayed on your Map, your labels will be temporarily replaced by those corresponding to the insights themselves. To restore your labels, disable the Insight using the toggle switch.
 
