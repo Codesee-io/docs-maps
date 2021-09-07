@@ -6,7 +6,7 @@ Once [a map is installed on a repository](./installation.md), Pull Request Maps 
 
 To get started, make a pull request to the repository.
 
-Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a map, along with a legend showing how these have changed. Below is an example from [Distribute Aid](https://distributeaid.org/)'s public repository:
+Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a Map showing the files impacted by the PR, along with a Map legend. Below is an example from [Distribute Aid](https://distributeaid.org/)'s public repository:
 
 ![Generated diagram showing a pull request](img/pr-map.svg)
 ![Generated CodeSee map legend](img/pr-map-legend.png)
