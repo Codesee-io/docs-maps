@@ -6,6 +6,7 @@ nav:
     - Overview: installation.md
   - 🚀 Using CodeSee:
     - User Guide: guide.md
+    - Pull Request Maps: prs.md
   - ❓ Need help?:
     - Support: support.md
 theme:
