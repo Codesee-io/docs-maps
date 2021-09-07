@@ -4,7 +4,7 @@ Once [a map is installed on a repository](./installation.md), Pull Request Maps 
 
 ## Generating A Pull Request Map
 
-Might sound straightforward, and that's because it is! All you have to do is create a pull request on your repo.
+To get started, make a pull request to the repository.
 
 Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a map, along with a legend showing how these have changed. Below is an example from [Distribute Aid](https://distributeaid.org/)'s public repository:
 
