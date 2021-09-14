@@ -1,10 +1,9 @@
 # Overview
 
-CodeSee Maps is **early alpha software**. Contact us at [support@codesee.io](mailto:support@codesee.io) with support questions, feedback, or feature requests.
+CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports JavaScript, TypeScript, and will soon be compatible with other languages. In addition, whenever you make a PR, CodeSee's PR Maps will show a map of your change automatically.
 
----
 
-CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports JavaScript, TypeScript, and will soon be compatible with other languages. Begin your journey with CodeSee Maps by following the [User Guide](./installation/).
+Begin your journey with CodeSee Maps by following the [User Guide](./installation/).
 
 <!-- CodeSee Maps in Action
 [slider to highlight 3-4 features] -->
@@ -31,3 +30,5 @@ Looking for CodeSee Recordings' docs? Follow [this link](https://docs.codesee.io
 CodeSee Maps uses GitHub to generate dependencies between files and updates your map to reflect changes in your codebase. We don't store your code, and your code never leaves the GitHub servers or your local machine.
 
 By default, CodeSee auto-updates to new versions and collects usage data and crash report information. You may opt-out of these defaults by sending an email to [support@codesee.io](mailto:support@codesee.io).
+
+CodeSee is in beta. Please contact us at [support@codesee.io](mailto:support@codesee.io) with support questions, feedback, or feature requests.
