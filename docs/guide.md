@@ -8,12 +8,6 @@ The map begins with most folders collapsed. You can open and close a folder by c
 
 The arrows between files or folders indicate dependencies. Each dependency is represented by an arrow that points from one file to the file it uses.
 
-### Panning and zooming
-
-Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
-
-<!-- [visual of zooming] -->
-
 ### File Browser
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
@@ -39,6 +33,17 @@ Below the File Browser, you'll find three insight types:
 - **Engineering Hot Spots**: See which files and folders have had the most recent commits.
 - **Latest Activity**: See when the last commit to a file or folder was made.
 - **Creation Date**: See when files and folders were created relative to today's date.
+
+### Data Panel
+
+The Data Panel allows you to explore the code of the file or folder of your map. Simply click on a node, and the Data Panel will automatically appear under your Map Legend. In addition, the Data Panel provides helpful information about the file or folder.
+
+
+### Panning and zooming
+
+Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
+
+<!-- [visual of zooming] -->
 
 ## Editing your map
 
