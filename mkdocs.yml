@@ -1,4 +1,4 @@
-site_name: CodeSee Maps Alpha
+site_name: CodeSee Maps Documentation
 nav:
   - 👋 Welcome:
     - Introduction: index.md
