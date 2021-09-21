@@ -24,7 +24,7 @@ We currently need the following GitHub permissions to ensure that you have an am
 
 ### Access to actions and code
 
-We currently run our Maps through a GitHub action (though more options are on the way). All of your code does not live on CodeSee's server but stays on GitHub's servers! Our action sends us aggregate data and then we use that to create your map, make insights etc. 
+We currently run our Maps through a GitHub action (though more options are on the way). All of your code does not live on CodeSee's server but stays on GitHub's servers! Our action sends us aggregate data and then we use that to create your map, make insights etc. It enables us to open PRs (dependabot style) to update our workflow to the latest CodeSee Map configuration. 
 
 ### Access to Pull requests, and workflows
 
@@ -32,4 +32,4 @@ For pull requests, we post a PR Map on your pull requests so that you can see ho
 
 ### Access to Workflows
 
-The workflow access is so we can monitor and troubleshoot if and when something goes wrong, to make sure CodeSee Maps is running smoothly. It enables us to open PRs (dependabot style) to update our workflow to the latest CodeSee Map configuration. 
+The workflow access is so we can monitor our GitHub Action to present progress indicators in app, and help you troubleshoot if and when something goes wrong. 
