@@ -53,6 +53,40 @@ If you are the owner of a map, you also have tools to create annotations to help
 
 As the owner, you will see a “Save” and “Revert” button above the map on the right. Clicking “Save” will preserve the current state of the map. This includes the positions of items and the expanded or collapsed state of any folders. “Revert” will return the map to its last saved state.
 
+### Creating a Tour
+Tours are a way to create asyncronous, visual walkthroughs on a map. Tours can be used for anything that comes to mind, showing where features are, tricky flows through files, helping to debug and more. 
+
+
+https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov
+
+
+
+To create a tour:
+
+1. Click on the ![tours icon](img/compass.png) in your left tool bar.
+2. Click Add a Tour.
+3. Provide a name for your tour.
+4. Click Add a Step.
+5. Click the node in the map where you want to place the first step of your tour.
+6. Add a description to the tour step.
+7. Go back to step 4 and create as many tour steps as you'd like.
+
+Additional tour options:
+
+1. Click on the ellipses to:
+- Add a second tour.
+- Rename a tour.
+- Delete a tour.
+
+Viewing a Tour:
+
+Tours should just show up on the map! 
+
+Switch to view another tour:
+1. Select the dropdown next to the name of your tour.
+2. Select which tour you would like to view.
+
+
 ### Labels and colors
 
 The legend is a panel in the upper-right corner of the map. Here you can choose colors and labels that you can apply to files or folders in your map.
