@@ -57,7 +57,7 @@ As the owner, you will see a “Save” and “Revert” button above the map on
 Tours are a way to create asyncronous, visual walkthroughs on a map. Tours can be used for anything that comes to mind, showing where features are, tricky flows through files, helping to debug and more. 
 
 
-![tour intro](https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov)
+[Here's a video of all of Tours!](https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov)
 
 
 
