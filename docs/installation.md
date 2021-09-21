@@ -10,5 +10,10 @@ To get started using CodeSee Maps, you will need to authorize CodeSee on your Gi
     1. Click “Install” then choose the appropriate organization.
     1. Click “Install & Authorize.”
 1. Select the repository you’d like to create a diagram of and click “Continue.”
-1. Follow the instructions to add the CodeSee API token to your repo’s secrets page, then click “Create map diagram.”
+1. Follow the instructions to add the CodeSee API token to your repo’s secrets page, then click “Create Map Diagram.”
 1. Your map should be ready to explore, annotate, and share!
+
+### Updating the CodeSee API Token
+1. Go to your repo’s secrets page.
+1. Click the “Update” button.
+1. Copy the API token, paste it into the form, then click the “Update Secret” button.
