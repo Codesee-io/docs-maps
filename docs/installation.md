@@ -17,3 +17,7 @@ To get started using CodeSee Maps, you will need to authorize CodeSee on your Gi
 1. Go to your repo’s secrets page.
 1. Click the “Update” button.
 1. Copy the API token, paste it into the form, then click the “Update Secret” button.
+
+## Permissions
+
+
