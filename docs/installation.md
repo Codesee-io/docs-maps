@@ -30,6 +30,6 @@ We currently run our Maps through a GitHub action (though more options are on th
 
 For pull requests, we post a PR Map on your pull requests so that you can see how your change fits within the larger architecture. We need your permission to make that possible. 
 
-### Workflows
+### Access to Workflows
 
 The workflow access is so we can monitor and troubleshoot if and when something goes wrong, to make sure CodeSee Maps is running smoothly. It enables us to open PRs (dependabot style) to update our workflow to the latest CodeSee Map configuration. 
