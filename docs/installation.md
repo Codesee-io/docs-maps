@@ -33,3 +33,7 @@ For pull requests, we post a PR Map on each of your pull requests so that you ca
 ### Access to Actions
 
 These allow us to monitor our GitHub Action, to present progress indicators in app, and help you troubleshoot if and when something goes wrong. 
+
+### Access to Repo Administration Organization Members
+
+We use information about who has access to your repo and organization in order to limit who has access to your CodeSee Maps. That way, all those and only those who have access to your repo will have access to your Maps about that repo. 
