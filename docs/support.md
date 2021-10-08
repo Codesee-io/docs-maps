@@ -48,6 +48,6 @@ Please email [support@codesee.io](mailto:support@codesee.io) for assistance—we
 
 Please confirm `CODESEE_ARCH_DIAG_API_TOKEN` is set within your repository secrets and **not** within your environment secrets. 
 
-If you need a new API Token, please go to [app.codesee.io/maps](https://app.codesee.io/maps) and click 'Create New Map'. Once you’ve added the new token to your repository secrets, re-run the action in GitHub.
+If you need a new API Token, please go to [https://app.codesee.io/maps](https://app.codesee.io/maps) and click 'Create New Map'. Once you’ve added the new token to your repository secrets, re-run the action in GitHub.
 
 If you need support, please contact [support@codesee.io](mailto:support@codesee.io). We can set up a 15-minute pairing session with you to ensure the necessary token is accurately configured. 
