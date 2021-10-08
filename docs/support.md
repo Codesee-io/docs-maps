@@ -44,7 +44,7 @@ Here in the [Maps Docs](https://docs.codesee.io/en/latest/) you’ll find everyt
 Please email [support@codesee.io](mailto:support@codesee.io) for assistance—we’re happy to help.
 
 
-**How do I generate new Maps?**
+**I'm having difficulty generating new Maps. Can you help?**
 
 Please confirm `CODESEE_ARCH_DIAG_API_TOKEN` is set within your repository secrets and **not** within your environment secrets. 
 
