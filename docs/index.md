@@ -1,6 +1,6 @@
 # Overview
 
-CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports JavaScript, TypeScript, and will soon be compatible with other languages. In addition, whenever you make a PR, CodeSee's PR Maps will show a map of your change automatically.
+CodeSee Maps creates a customizable and extensible architecture diagram of your codebase that stays updated with every pull request. It supports Go, Java, Javascript, Python, Typescript and will soon be compatible with more languages. In addition, whenever you make a PR, CodeSee's PR Maps will show a map of your change automatically.
 
 
 Begin your journey with CodeSee Maps by following the [User Guide](./installation/).
