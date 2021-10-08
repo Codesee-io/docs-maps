@@ -33,6 +33,7 @@ Below the File Browser, you'll find three insight types:
 - **Engineering Hot Spots**: See which files and folders have had the most recent commits.
 - **Latest Activity**: See when the last commit to a file or folder was made.
 - **Creation Date**: See when files and folders were created relative to today's date.
+- **Lines of Code**: See how many lines of code files contain and quickly locate the largest files in your codebase.
 
 ### Data Panel
 
