@@ -7,9 +7,9 @@ You can reach us at [support@codesee.io](mailto:support@codesee.io) with support
 
 ### Product Questions
 
-**Is CodeSee compatible with BitBucket?**
+**Is CodeSee compatible with Bitbucket or GitLab?**
 
-At the moment, CodeSee is only compatible with GitHub. However, we’re working to support BitBucket repositories soon! 
+At the moment, CodeSee is only compatible with GitHub. However, we’re working to support Bitbucket and GitLab repositories soon! 
 
 
 **Does CodeSee need to be installed on PCs?**
