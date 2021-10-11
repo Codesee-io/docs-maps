@@ -27,7 +27,7 @@ Looking for CodeSee Recordings' docs? Follow [this link](https://docs.codesee.io
 
 ## Privacy 
 
-CodeSee Maps uses GitHub to generate dependencies between files and updates your map to reflect changes in your codebase. We don't store your code, and your code never leaves the GitHub servers or your local machine.
+CodeSee Maps uses GitHub to generate dependencies between files and updates your map to reflect changes in your codebase. We don't store your code, we analyze it on GitHub's servers using a GitHub Action.
 
 By default, CodeSee auto-updates to new versions and collects usage data and crash report information. You may opt-out of these defaults by sending an email to [support@codesee.io](mailto:support@codesee.io).
 
