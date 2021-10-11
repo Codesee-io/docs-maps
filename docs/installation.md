@@ -24,7 +24,7 @@ We currently request the following GitHub permissions to ensure that you have an
 
 ### Access to Content and Workflows
 
-We currently run our Maps analysis using a GitHub action (though more options are on the way). Your code stays on GitHub's servers -- we do not transmit or store it! Our action sends us aggregate data and metadata about your codebase and then we use that to create your map, to make insights, and more. In addition, these permissions enable us to open PRs (dependabot style) to install and update the CodeSee Map workflow in your repo to the latest configuration.
+We currently run our Maps analysis using a GitHub action (though more options are on the way). Your code is analyzed on GitHub's servers -- we do not store it! Our action sends us aggregate data and metadata about your codebase and then we use that to create your map, to make insights, and more. In addition, these permissions enable us to open PRs (dependabot style) to install and update the CodeSee Map workflow in your repo to the latest configuration. Finally, if you use our Code Review Maps feature, we display code changes in our UI alongside a Map of the pull request. We do so by requesting only the relevant code using GitHub's APIs, and transmitting it securely over https. Again, we do not store your code.
 
 ### Access to Pull requests
 
