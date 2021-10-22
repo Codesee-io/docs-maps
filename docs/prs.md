@@ -1,8 +1,8 @@
-# Pull Request Maps
+# Review Maps
 
-Once [a map is installed on a repository](./installation.md), Pull Request Maps will be automatically generated for every pull request made to the repository. 
+Once [a map is installed on a repository](./installation.md), Review Maps will be automatically generated for every pull request made to the repository. 
 
-## Generating A Pull Request Map
+## Generating A Review Map
 
 To get started, make a pull request to the repository.
 
@@ -17,4 +17,4 @@ The legend consists of three types of changes:
 - **Removed**: Files/folders removed in this pull request
 - **Edited**: Files/folders that have been modified in this pull request
 
-If commits are made to this pull request, a new PR diagram will be generated.
+If commits are made to this pull request, a new Review Map will be generated.
