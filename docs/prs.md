@@ -6,23 +6,17 @@ Once [a map is installed on a repository](./installation.md), Review Maps will b
 
 To get started, make a pull request to the repository.
 
-Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a Review Map showing the files impacted by the PR, along with a Legend. Code is grouped intuitively so that you can review based on logic and functionality. For example, choose to review left to right (general to more specific) or review sections based on type (back-end vs. front-end changes, etc.)
+Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a Review Map showing the files impacted by the PR, along with a Map Legend. Code is grouped intuitively so that you can review based on logic and functionality. For example, choose to review left to right (general to more specific) or review sections based on type (back-end vs. front-end changes, etc.)
 
 ![Generated Review Map showing a pull request](img/review-map.png)
 
-The Legend consists of three types of changes:
+The Map Legend consists of three types of changes:
 
 * **Added**: Files/folders added in this pull request
 * **Removed**: Files/folders removed in this pull request
 * **Edited**: Files/folders that have been modified in this pull request
 
-If commits are made to this pull request, a new Review Map will be generated.
-
-_A Note On Permissions_: 
-
-On a **public** repository, logged-out users or users without a CodeSee account can view a Review Map. However, users looking to comment or submit a review will be prompted to log in.
-
-On a **private** repository, logged-out users or users without a CodeSee account cannot view a Review Map. The user will be prompted to log in or sign up to view the Review Map.
+If commits are made to a pull request, a new Review Map will be generated.
 
 ## Interacting With A Review Map
 
@@ -58,3 +52,10 @@ Provide feedback on reviews by placing and responding to comments within the cod
 Click the “Review” button in the header to make a final review comment approving, requesting changes, or commenting on the pull request. 
 
 ![Submit review on pull request via a Review Map](img/submit-review.gif)
+
+
+_A Note On Permissions_: 
+
+On a **public** repository, logged-out users or users without a CodeSee account can view a Review Map. However, users looking to comment or submit a review will be prompted to log in.
+
+On a **private** repository, logged-out users or users without a CodeSee account cannot view a Review Map. The user will be prompted to log in or sign up to view the Review Map.
