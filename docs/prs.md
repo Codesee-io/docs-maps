@@ -8,10 +8,7 @@ To get started, make a pull request to the repository.
 
 Once that's done, the `codesee-architecture-diagrams` bot will automatically comment on your pull request with an image of a Map showing the files impacted by the PR, along with a Map legend. Code is grouped intuitively so that you can review based on logic and functionality. For example, choose to review left to right (general to more specific) or vice versa and review sections based on type (back-end vs. front-end changes, etc.)
 
-Below is an example from [Distribute Aid](https://distributeaid.org/)'s public repository:
-
-![Generated diagram showing a pull request](img/pr-map.svg)
-![Generated CodeSee map legend](img/pr-map-legend.png)
+![Generated Review Map showing a pull request](img/review-map.png)
 
 The legend consists of three types of changes:
 
