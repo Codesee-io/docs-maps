@@ -9,7 +9,7 @@ This section shows you how to build the docs locally. This allows you to preview
 You need Python 3 installed on your machine (these instructions were tested with 3.9)
 
 Clone the repo:
-`git clone https://github.com/Codesee-io/docs.git codesee-docs`
+`git clone https://github.com/Codesee-io/docs.git docs-maps`
 
 Navigate into codesee-doc, and create a virtual environment:
 `python -m venv venv`
