@@ -33,10 +33,10 @@ When viewing a file diff, if there are related files that are unchanged, they wi
 
 At any point of viewing the code diff, you can click on a file header to expand/collapse that file. This works in concert with the existing “Reviewed” checkbox.
 
-## Progress Bar
+### Progress Bar
 
 Mark sections as 'Reviewed' via the checkboxes as you move through a code review. When the checkbox is selected, nodes on the map are displayed as “Reviewed” and files within the diff collapse. A progress bar indicating the number of files in the PR that you have reviewed is visible in the header. 
 
-## Review Comments
+### Review Comments
 
 Provide feedback on reviews by placing and responding to comments within the code diffs. Comments are automatically reflected in the repository.
