@@ -18,6 +18,17 @@ To get started using CodeSee Maps, you will need to authorize CodeSee on your Gi
 1. Click the “Update” button.
 1. Copy the API token, paste it into the form, then click the “Update Secret” button.
 
+## Listing Your Map in Your Documentation
+
+We provide a badge for you to use in your documentation:
+![View Architecture Diagram badge for CodeSee](https://codesee-docs.s3.amazonaws.com/badge.svg)
+
+You can include this in your documentation, such as your README.md file, with the following markdown example:
+
+```
+[![View Architecture Diagram badge for CodeSee](https://codesee-docs.s3.amazonaws.com/badge.svg)](YOUR_CODESEE_MAP_URL)
+```
+
 ## Permissions
 
 We currently request the following GitHub permissions to ensure that you have an amazing experience using CodeSee
