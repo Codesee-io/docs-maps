@@ -55,7 +55,7 @@ Click the “Review” button in the header to make a final review comment appro
 ![Submit review on pull request via a Review Map](img/submit-review.gif)
 
 
-#### _A Note On Permissions_: 
+_A Note On Permissions_: 
 
 On a **public** repository, logged-out users or users without a CodeSee account can view a Review Map. However, users looking to comment or submit a review will be prompted to log in.
 
