@@ -23,6 +23,7 @@ If commits are made to a pull request, a new Review Map will be generated.
 Directly below your Review Map is a link to "Review in an interactive map," allowing you to explore the individual nodes of your Map. Click on a file to highlight its connections. Expand and collapse folders or zoom into and out of the Review Map by using the Zoom UI. 
 
 To access PR-related details during the review, look to the header at the top of the page. Then,
+
   * Click the PR title or number to navigate to that PR in GitHub.
   * Click the PR author to visit that user’s page in GitHub.
   * Click on the (i) icon to see the full PR description.
@@ -54,7 +55,7 @@ Click the “Review” button in the header to make a final review comment appro
 ![Submit review on pull request via a Review Map](img/submit-review.gif)
 
 
-_A Note On Permissions_: 
+#### _A Note On Permissions_: 
 
 On a **public** repository, logged-out users or users without a CodeSee account can view a Review Map. However, users looking to comment or submit a review will be prompted to log in.
 
