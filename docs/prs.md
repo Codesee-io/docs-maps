@@ -67,7 +67,7 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 
 ![CodeSee Review Map on Visual Studio Code](img/codesee-vs-code.gif)
 
-## Install CodeSee for VS Code
+### Install CodeSee for VS Code
 
 > As a prerequisite, ensure you have a [CodeSee account](https://app.codesee.io/) and CodeSee Maps is installed in your repository.
 
@@ -79,5 +79,5 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 7. Bring up the command palette using `Ctrl/Cmd` + `Shift` + `P`.
 8. Choose CodeSee: `Open Review Map` to review changes on your branch.
 
-## Feedback 
+### Feedback 
 Feel free to provide feedback or submit feature requests to [support@codesee.io](mailto:support@codesee.io).
