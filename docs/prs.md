@@ -75,7 +75,7 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 3. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
 4. Open your desired GitHub repository in VS Code.
 5. Check out the branch you would like to review.
-6. A new viewlet will appear on the activity bar: log in to your CodeSee account.
+6. Log in to your CodeSee account when prompted by the sidebar.
 7. Bring up the command palette using `Ctrl/Cmd` + `Shift` + `P`.
 8. Choose CodeSee: `Open Review Map` to review changes on your branch.
 
