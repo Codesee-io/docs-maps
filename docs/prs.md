@@ -89,7 +89,7 @@ When you're browsing a pull request locally, open the command palette with `Ctrl
 - double-click on a file to open a diff view
 - right-click on a file to mark it as viewed -- this will be reflected in GitHub
 
-### GitHub Pull Request sidebar
+### GitHub Pull Request Sidebar
 
 When you're viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
 
