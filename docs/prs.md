@@ -71,7 +71,7 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 
 > As a prerequisite, ensure you have a [CodeSee account](https://app.codesee.io/) and CodeSee Maps is installed in your repository.
 
-1. You can find the CodeSee VS Code extension in the [Visual Studio Marketplace]((https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
+1. You can find the CodeSee VS Code extension in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
 3. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
 4. Open your desired GitHub repository in VS Code.
 5. Check out the branch you would like to review.
