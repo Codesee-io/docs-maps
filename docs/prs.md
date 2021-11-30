@@ -60,3 +60,24 @@ _A Note On Permissions_:
 On a **public** repository, logged-out users or users without a CodeSee account can view a Review Map. However, users looking to comment or submit a review will be prompted to log in.
 
 On a **private** repository, logged-out users or users without a CodeSee account cannot view a Review Map. The user will be prompted to log in or sign up to view the Review Map.
+
+## Review Maps for Visual Studio Code
+
+CodeSee’s extension for Visual Studio Code allows you to contextualize the potential impact of code changes, address feedback, and submit reviews—all within your editor. 
+
+![CodeSee Review Map on Visual Studio Code](img/codesee-vs-code.gif)
+
+## Install CodeSee for VS Code
+
+> As a prerequisite, ensure you have a [CodeSee account](https://app.codesee.io/) and CodeSee Maps is installed in your repository.
+
+1. You can find the CodeSee VS Code extension in the [Visual Studio Marketplace]((https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
+3. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
+4. Open your desired GitHub repository in VS Code.
+5. Check out the branch you would like to review.
+6. A new viewlet will appear on the activity bar: log in to your CodeSee account.
+7. Bring up the command palette using `Ctrl/Cmd` + `Shift` + `P`.
+8. Choose CodeSee: `Open Review Map` to review changes on your branch.
+
+## Feedback 
+Feel free to provide feedback or submit feature requests to [support@codesee.io](mailto:support@codesee.io).
