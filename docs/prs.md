@@ -79,5 +79,26 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 7. Bring up the command palette using `Ctrl/Cmd` + `Shift` + `P`.
 8. Choose CodeSee: `Open Review Map` to review changes on your branch.
 
+### Usage
+
+When you're browsing a pull request locally, open the command palette with `Ctrl/Cmd` + `Shift` + `P` and choose `CodeSee: Open Review Map`. This will open a visual representation of your pull request.
+
+- use your mouse to drag the map around
+- use `Ctrl` + your mouse wheel to zoom in and out
+- click on a file to view its dependencies and tune out the rest
+- double-click on a file to open a diff view
+- right-click on a file to mark it as viewed -- this will be reflected in GitHub
+
+### GitHub Pull Request sidebar
+
+When you're viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
+
+- open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar
+- choose a pull request under any category. The "All Open" category is a good place to start.
+- expand the pull request you want to view and open a file within
+- open a Review Map using the command palette
+
+![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif)
+
 ### Feedback 
 Feel free to provide feedback or submit feature requests to [support@codesee.io](mailto:support@codesee.io).
