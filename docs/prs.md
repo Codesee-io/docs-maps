@@ -76,45 +76,28 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 4. Open your desired GitHub repository in VS Code.
 5. Log in to your CodeSee account when prompted by the sidebar.
 
-Then,
-
-=== "Local"
-
-    1. Check out the branch you would like to review. 
-    2. Bring up the command palette using `Ctrl/Cmd` + `Shift` + `P`.
-    3. Choose CodeSee: `Open Review Map` to review changes on your branch.
-
-=== "GitHub Pull Request Sidebar"
-
-    When you're viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out     the branch:
-
-    * Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar
-    * Choose a pull request under any category. The "All Open" category is a good place to start.
-    * Expand the pull request you want to view and open a file within
-    * Open a Review Map using the command palette
-
-    ![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif)
-
 ### Usage
 
-When you're browsing a pull request locally, open the command palette with `Ctrl/Cmd` + `Shift` + `P` and choose `CodeSee: Open Review Map`. This will open a visual representation of your pull request.
+#### Local
 
-- use your mouse to drag the map around
-- use `Ctrl` + your mouse wheel to zoom in and out
-- click on a file to view its dependencies and tune out the rest
-- double-click on a file to open a diff view
-- right-click on a file to mark it as viewed -- this will be reflected in GitHub
+When you're browsing a pull request locally, check out the branch you would like to review. Then, open the command palette with `Ctrl/Cmd` + `Shift` + `P` and choose `CodeSee: Open Review Map`. This will open a visual representation of your pull request.
 
-<!-- ### GitHub Pull Request Sidebar
+- Use your mouse to drag the map around.
+- Use `Ctrl` + your mouse wheel to zoom in and out.
+- Click on a file to view its dependencies and tune out the rest.
+- Double-click on a file to open a diff view.
+- Right-click on a file to mark it as viewed—this will be reflected in GitHub.
+
+#### GitHub Pull Request Sidebar
 
 When you're viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
 
-- open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar
-- choose a pull request under any category. The "All Open" category is a good place to start.
-- expand the pull request you want to view and open a file within
-- open a Review Map using the command palette
+- Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar.
+- Choose a pull request under any category. The "All Open" category is a good place to start.
+- Expand the pull request you want to view and open a file within.
+- Open a Review Map using the command palette.
 
-![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif) -->
+![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif)
 
 ### Feedback 
 Feel free to provide feedback or submit feature requests to [support@codesee.io](mailto:support@codesee.io).
