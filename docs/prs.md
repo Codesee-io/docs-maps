@@ -72,15 +72,15 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 > As a prerequisite, ensure you have a [CodeSee account](https://app.codesee.io/) and CodeSee Maps is installed in your repository.
 
 1. You can find the CodeSee VS Code extension in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
-3. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
-4. Open your desired GitHub repository in VS Code.
-5. Log in to your CodeSee account when prompted by the sidebar.
+2. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
+3. Open your desired GitHub repository in VS Code.
+4. Log in to your CodeSee account when prompted by the sidebar.
 
 ### Usage
 
 #### Local
 
-When you're browsing a pull request locally, check out the branch you would like to review. Then, open the command palette with `Ctrl/Cmd` + `Shift` + `P` and choose `CodeSee: Open Review Map`. This will open a visual representation of your pull request.
+When browsing a pull request locally, open the command palette with `Ctrl/Cmd` + `Shift` + `P` and choose `CodeSee: Open Review Map`. This will open a visual representation of the pull request.
 
 - Use your mouse to drag the map around.
 - Use `Ctrl` + your mouse wheel to zoom in and out.
@@ -90,7 +90,7 @@ When you're browsing a pull request locally, check out the branch you would like
 
 #### GitHub Pull Request Sidebar
 
-When you're viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
+When viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
 
 - Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar.
 - Choose a pull request under any category. The "All Open" category is a good place to start.
