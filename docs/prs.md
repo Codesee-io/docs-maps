@@ -92,10 +92,10 @@ When browsing a pull request locally, open the command palette with `Ctrl/Cmd` +
 
 When viewing a file inside the sidebar of the GitHub Pull Request & Issues extensions, you can create a Review Map of those changes without checking out the branch:
 
-- Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar.
-- Choose a pull request under any category. The "All Open" category is a good place to start.
-- Expand the pull request you want to view and open a file within.
-- Open a Review Map using the command palette.
+1. Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar.
+2. Choose a pull request under any category. The "All Open" category is a good place to start.
+3. Expand the pull request you want to view and open a file within.
+4. Open a Review Map using the command palette.
 
 ![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif)
 
