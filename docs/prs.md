@@ -71,12 +71,14 @@ CodeSee’s extension for Visual Studio Code allows you to contextualize the pot
 
 > As a prerequisite, ensure you have a [CodeSee account](https://app.codesee.io/) and CodeSee Maps is installed in your repository.
 
-1. You can find the CodeSee VS Code extension in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
+1. You can find the CodeSee Review Maps VS Code extension in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=codesee.maps). Click **Install** to add the extension to your editor. Alternatively, search for "CodeSee" within VS Code.
 2. Install the [GitHub Pull Requests and Issues extension](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github).
 3. Open your desired GitHub repository in VS Code.
 4. Log in to your CodeSee account when prompted by the sidebar.
 
 ### Usage
+
+> Once the CodeSee Review Maps extension is successfully installed, you may begin reviewing all **new** pull requests in VS Code. PRs that predate the extension will not have a Review Map readily available unless a new commit is made.  
 
 #### Local
 
@@ -95,7 +97,7 @@ When viewing a file inside the sidebar of the GitHub Pull Request & Issues exten
 1. Open the [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) sidebar.
 2. Choose a pull request under any category. The "All Open" category is a good place to start.
 3. Expand the pull request you want to view and open a file within.
-4. Open a Review Map using the command palette.
+4. Open a Review Map using the command palette and choose `CodeSee: Open Review Map`. This will open a visual representation of the pull request.
 
 ![Review Map within the GitHub extension](https://s3.us-east-2.amazonaws.com/maps.codesee.io/github_extension.gif)
 
