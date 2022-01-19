@@ -50,7 +50,7 @@ Provide feedback on reviews by placing and responding to comments. You can add c
 
 Once a code review conversation is resolved, click "Resolve conversation" to collapse the thread. You can always bring it back by expanding the thread again and click on "Unresolve conversation":
 
-![Resolve a conversation](img/resolve-conversation.gif)
+<img alt="Resolve a conversation" src="../img/resolve-conversation.gif" width="474">
 
 ### Mark files as viewed
 
