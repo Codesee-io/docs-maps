@@ -5,6 +5,8 @@ CodeSee Maps creates a customizable and extensible architecture diagram of your 
 
 Begin your journey with CodeSee Maps by following the [User Guide](./installation/).
 
+Interested in learning about the types of Maps most used across development teams? Read our [blog post](https://learn.codesee.io/types-of-codesee-maps-for-teams/).
+
 <!-- CodeSee Maps in Action
 [slider to highlight 3-4 features] -->
 
