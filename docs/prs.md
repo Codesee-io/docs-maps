@@ -48,7 +48,7 @@ Provide feedback on reviews by placing and responding to comments. You can add c
 
 ![Discussion in a pull request](img/discussion-side-panel.png)
 
-Once a code review conversation is resolved, click "Resolve conversation" to collapse the thread. You can always bring it back by expanding the thread again and click on "Unresolve conversation":
+Once a code review conversation is resolved, click "Resolve conversation" to collapse the thread. You can always bring it back by expanding the thread again and clicking on "Unresolve conversation":
 
 <img alt="Resolve a conversation" src="../img/resolve-conversation.gif" width="474">
 
