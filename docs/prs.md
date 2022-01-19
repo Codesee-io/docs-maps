@@ -54,7 +54,7 @@ Once a code review conversation is resolved, click "Resolve conversation" to col
 
 ### Mark files as viewed
 
-When reviewing a code review, it can be helpful to mark files as "Reviewed" to keep track of progress. When viewing a file diff, click the checkbox in the top right to mark the file as "Reviewed":
+When performing a code review, it can be helpful to note files that have undergone review to keep track of progress. When viewing a file diff, click the checkbox on the top right to mark the file as "Reviewed":
 
 ![Interact with a Review Map](img/reviewed.gif)
 
