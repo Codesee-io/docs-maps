@@ -44,7 +44,17 @@ Mark sections as 'Reviewed' via the checkboxes as you move through the code revi
 
 ### Comments
 
-Provide feedback on reviews by placing and responding to comments within the code diffs. Comments are instantly reflected in both the repository and in CodeSee.
+Provide feedback on reviews by placing and responding to comments. You can add comments on specific lines within the code diffs or in the pull request discussion within the side panel. Comments are instantly reflected in both the repository and in CodeSee.
+
+![Discussion in a pull request](img/discussion-side-panel.png)
+
+Once a code review conversation is resolved, click "Resolve conversation" to collapse the thread. You can always bring it back by expanding the thread again and clicking on "Unresolve conversation":
+
+<img alt="Resolve a conversation" src="../img/resolve-conversation.gif" width="474">
+
+### Mark files as viewed
+
+When performing a code review, it can be helpful to note files that have undergone review to keep track of progress. When viewing a file diff, click the checkbox on the top right to mark the file as "Reviewed":
 
 ![Interact with a Review Map](img/reviewed.gif)
 
