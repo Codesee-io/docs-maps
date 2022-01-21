@@ -60,7 +60,7 @@ When performing a code review, it can be helpful to note files that have undergo
 
 ### Review Map Settings
 
-By default, all the connections between files and directories are displayed on a Review Map. To reduce visual clutter, turn on the "Hide links between files" setting. In this mode, you can still selected files and directories to see the incoming and outgoing connections.
+By default, all the connections between files and directories are displayed on a Review Map. To reduce visual clutter, turn on the "Hide links between files" setting. In this mode, you can still select files and directories to see the incoming and outgoing connections.
 
 <img alt="Setting to hide links between files" src="../img/link-visibility.png" width="276">
 
