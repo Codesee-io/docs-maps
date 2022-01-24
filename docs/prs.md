@@ -62,7 +62,7 @@ When performing a code review, it can be helpful to note files that have undergo
 
 The Review Map settings can be accessed using the side menu on the right:
 
-<img alt="Gif of accessing the Review Map settings" src="../image/review-map-settings.gif" width="306">
+<img alt="Gif of accessing the Review Map settings" src="../img/review-map-settings.gif" width="306">
 
 By default, all the connections between files and directories are displayed on a Review Map. To reduce visual clutter, turn on the "Hide links between files" setting. In this mode, you can still select files and directories to see the incoming and outgoing connections.
 
