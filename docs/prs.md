@@ -60,7 +60,7 @@ When performing a code review, it can be helpful to note files that have undergo
 
 ### Review Map Settings
 
-The Review Map settings can be accessed using the side menu on the right:
+The Review Map settings can be accessed using the menu on the right side:
 
 <img alt="Gif of accessing the Review Map settings" src="../img/review-map-settings.gif" width="306">
 
@@ -68,7 +68,7 @@ By default, all the connections between files and directories are displayed on a
 
 <img alt="Setting to toggle the visibility of links in Review Maps" src="../img/review-map-link-visibility.png" width="256">
 
-The layout of Review Maps are automatically generated. However, we've introduced an experimental flag that allows users to repositioning files and directories by dragging them around the page.
+The layout of a Review Map is automatically generated. However, we've introduced an experimental flag that allows users to reposition files and directories by dragging them around the page.
 
 <img alt="Setting to toggle the ability to reposition nodes in Review Maps" src="../img/review-map-layout-mode.png" width="256">
 
