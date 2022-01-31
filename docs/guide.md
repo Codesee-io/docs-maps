@@ -46,6 +46,10 @@ The Data Panel allows you to explore the code of the file or folder of your map.
 
 Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
 
+You can also zoom in and out with the zoom controls at the bottom-right of the Map:
+
+![Screenshot of CodeSee's zooming functionality](img/zooming.png)
+
 <!-- [visual of zooming] -->
 
 ## Editing your map
