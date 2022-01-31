@@ -12,6 +12,8 @@ The arrows between files or folders indicate dependencies. Each dependency is re
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
+![Screenshot of the file browser in CodeSee Maps](img/file-browser.png)
+
 <!-- [visual of show and hide] -->
 
 Right-click to bring up a menu to hide all selected items, or hide everything in the repository except for what you selected.
@@ -43,6 +45,10 @@ The Data Panel allows you to explore the code of the file or folder of your map.
 ### Panning and zooming
 
 Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
+
+You can also zoom in and out with the zoom controls at the bottom-right of the Map:
+
+![Screenshot of CodeSee's zooming functionality](img/zooming.png)
 
 <!-- [visual of zooming] -->
 

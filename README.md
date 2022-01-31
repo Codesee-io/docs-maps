@@ -19,8 +19,8 @@ If you name your virtual environment something other than `venv` or `env`, add i
 Activate your virtual environment: run the appropriate script for your system from /venv/Scripts/.
 
 ### Install requirements:
-`pip install -r` requirements.txt
-You can now preview the docs locally with mkdocs serve, or build them with mkdocs build.
+`pip install -r requirements.txt`
+You can now preview the docs locally with `mkdocs serve`, or build them with mkdocs build.
 
 ## Getting help
 If you need support with CodeSee, please contact support@codesee.io.
