@@ -12,6 +12,8 @@ The arrows between files or folders indicate dependencies. Each dependency is re
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
+![Screenshot of the file browser in CodeSee Maps](img/file-browser.png)
+
 <!-- [visual of show and hide] -->
 
 Right-click to bring up a menu to hide all selected items, or hide everything in the repository except for what you selected.
