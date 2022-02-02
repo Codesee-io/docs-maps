@@ -46,6 +46,12 @@ The Data Panel allows you to explore the code of the file or folder of your map.
 
 Pan across your map with your mouse’s scroll wheel or by clicking and dragging on the background of the map. Zoom in and out by holding down the `Ctrl` key while scrolling.
 
+You can activate Panning Mode by clicking on the Pan button, represented by a hand icon:
+
+![Screenshot of CodeSee's pan icon](img/pan-icon.png)
+
+This will allow you to pan your map by clicking and dragging. To return to node selection mode, click on the arrow icon.
+
 You can also zoom in and out with the zoom controls at the bottom-right of the Map:
 
 ![Screenshot of CodeSee's zooming functionality](img/zooming.png)
@@ -59,6 +65,8 @@ If you are the owner of a map, you also have tools to create annotations to help
 ### Saving and reverting
 
 As the owner, you will see a “Save” and “Revert” button above the map on the right. Clicking “Save” will preserve the current state of the map. This includes the positions of items and the expanded or collapsed state of any folders. “Revert” will return the map to its last saved state.
+
+![Screenshot of CodeSee's Save and Revert buttons](img/maps-save-button.png)
 
 ### Creating a Tour
 Tours are a way to create asyncronous, visual walkthroughs on a map. Tours can be used for anything that comes to mind, showing where features are, tricky flows through files, helping to debug and more. 
@@ -163,6 +171,8 @@ If you’re the owner of the map, you can share it with others. This can help yo
 ### Share settings
 
 The share settings below affect only the visibility of the map. Only you, as the owner, will be able to edit it.
+
+![Screenshot of CodeSee's Share Menu Popup](img/share-menu.png)
 
 To change the share settings of your map:
 
