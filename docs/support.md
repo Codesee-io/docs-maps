@@ -7,44 +7,44 @@ You can reach us at [support@codesee.io](mailto:support@codesee.io) with support
 
 ### Product Questions
 
-**Is CodeSee compatible with Bitbucket or GitLab?**
+#### Is CodeSee compatible with Bitbucket or GitLab?
 
 At the moment, CodeSee is only compatible with GitHub. However, we’re working to support Bitbucket and GitLab repositories soon! 
 
 
-**Does CodeSee need to be installed on PCs?**
+#### Does CodeSee need to be installed on PCs?
 
 CodeSee Maps is entirely web based at this time. 
 
 
-**Is CodeSee compatible with C++ codebases?**
+#### Is CodeSee compatible with C++ codebases?
 
 Most CodeSee Maps features work for any programming language, though we currently only display dependencies between files for Go, Java, Javascript, Python, and Typescript—with more languages on the roadmap!
 
 
-**Is CodeSee compatible with GO codebases?**
+#### Is CodeSee compatible with GO codebases?
 
 Yes! Please see our [installation guide](https://docs.codesee.io/en/latest/installation/) to learn how to get started.
 
 
-**How do I update an old CodeSee Map?**
+#### How do I update an old CodeSee Map?
 
 Maps automatically update when you push changes to your codebase, so you never have to worry about keeping your Map up to date.
 
 
-**How do I get started with CodeSee Maps?**
+#### How do I get started with CodeSee Maps?
 
 Here in the [Maps Docs](https://docs.codesee.io/en/latest/) you’ll find everything you need to know to get started. Additionally, [Learn.codesee.io](https://learn.codesee.io/) has helpful and inspiring resources.
 
 
 ### Troubleshooting Questions
 
-**How can I get an admin to help reset my CodeSee Maps password?**
+#### How can I get an admin to help reset my CodeSee Maps password?
 
 Please email [support@codesee.io](mailto:support@codesee.io) for assistance—we’re happy to help.
 
 
-**I'm having difficulty generating new Maps. Can you help?**
+#### I'm having difficulty generating new Maps. Can you help?
 
 Please confirm `CODESEE_ARCH_DIAG_API_TOKEN` is set within your repository secrets and **not** within your environment secrets. 
 
