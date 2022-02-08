@@ -12,9 +12,7 @@ The arrows between files or folders indicate dependencies. Each dependency is re
 
 The panel on the left side of the map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
-![Screenshot of the file browser in CodeSee Maps](img/file-browser.png)
-
-<!-- [visual of show and hide] -->
+![Screen capture of the file browser in CodeSee Maps toggling folders' visibility](img/file-browser.gif)
 
 Right-click to bring up a menu to hide all selected items, or hide everything in the repository except for what you selected.
 
@@ -28,7 +26,7 @@ CodeSee will automatically gather insights from your repository. Use the toggle 
 
 When Insights are displayed on your Map, your labels will be temporarily replaced by those corresponding to the insights themselves. To restore your labels, disable the Insight using the toggle switch.
 
-![Screenshot of CodeSee's insights, showing the engineering hot spots insights](img/maps-insights.png)
+![Screen capture of CodeSee's insights, showing different types](img/insights.gif)
 
 Below the File Browser, you'll find three insight types:
 
@@ -48,7 +46,7 @@ Pan across your map with your mouse’s scroll wheel or by clicking and dragging
 
 You can activate Panning Mode by clicking on the Pan button, represented by a hand icon:
 
-![Screenshot of CodeSee's pan icon](img/pan-icon.png)
+![Screen capture of CodeSee's panning and zooming](img/pan-and-zoom.gif)
 
 This will allow you to pan your map by clicking and dragging. To return to node selection mode, click on the arrow icon.
 
