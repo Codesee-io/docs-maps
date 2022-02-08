@@ -154,7 +154,7 @@ To add notes to files or folders:
 
 Notes on folders are available only when the folder is collapsed.
 
-<!-- [visual of Notes tool] -->
+![Screenshot of CodeSee's Notes Tool](img/notes-tool.png)
 
 ### Duplicate a map
 
