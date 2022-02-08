@@ -115,6 +115,7 @@ To add a new label to the legend:
 You can use labels to designate and color-code team ownership, indicate different codebase features, mark hotspots or tech debt, or whatever would be useful to you.
 
 To assign colors to files or folders:
+
 1. Click the “Color” tool, then choose the color you’d like to paint with.
 1. Click on the files or folders you want to paint with that selected color.
 
