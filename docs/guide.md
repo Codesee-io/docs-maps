@@ -119,7 +119,7 @@ To assign colors to files or folders:
 1. Click the “Color” tool, then choose the color you’d like to paint with.
 1. Click on the files or folders you want to paint with that selected color.
 
-<!-- [visuals of legend + coloring nodes] -->
+![Animated screenshot showing creating a new label, setting its color, and using the color tool to set the colors on nodes](img/colors-and-labels.gif)
 
 ### Right-Click Menu
 
