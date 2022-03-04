@@ -64,6 +64,12 @@ As the owner, you will see a “Save” and “Revert” button above the Map on
 
 ![Screenshot of CodeSee's Save and Revert buttons](img/maps-save-button.png)
 
+### Real-time Collaboration 
+
+Real-time Collaboration allows multiple users to make changes to a Map at the same time. Users actively collaborating in the Map are represented with avatars containing their initial. All edits to the Map are automatically saved—unless you are in Explorer mode.
+
+<!-- visual of the display -->
+
 ### Creating a Tour
 Tours are a way to create asyncronous, visual walkthroughs on a Map. Tours can be used for anything that comes to mind, showing where features are, tricky flows through files, helping to debug and more. 
 
@@ -157,12 +163,6 @@ To create a copy of a Map, click on the overflow button (•••), then select
 > Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser](#file-browser) or the [Right-Click Menu](#right-click-menu).
 
 <!-- visual of filtered view -->
-
-## Real-time Collaboration 
-
-Real-time Collaboration allows multiple users to make changes to a Map at the same time. Users actively collaborating in the Map are represented with avatars containing their initial. All edits to the Map are automatically saved—unless you are in Explorer mode.
-
-<!-- visual of the display -->
 
 ## Sharing your Map
 
