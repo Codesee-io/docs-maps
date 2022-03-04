@@ -12,9 +12,7 @@ The arrows between files or folders indicate dependencies. Each dependency is re
 
 The panel on the left side of the Map shows your codebase's entire file and folder tree. You can hide files or folders from the diagram by clicking the “eye” icon. You can also select multiple items by holding down Shift or Ctrl and clicking items.
 
-![Screenshot of the file browser in CodeSee Maps](img/file-browser.png)
-
-<!-- [visual of show and hide] -->
+![Screen capture of the file browser in CodeSee Maps toggling folders' visibility](img/file-browser.gif)
 
 Right-click to bring up a menu to hide all selected items, or hide everything in the repository except for what you selected.
 
@@ -28,7 +26,7 @@ CodeSee will automatically gather insights from your repository. Use the toggle 
 
 When Insights are displayed on your Map, your labels will be temporarily replaced by those corresponding to the insights themselves. To restore your labels, disable the Insight using the toggle switch.
 
-![Screenshot of CodeSee's insights, showing the engineering hot spots insights](img/maps-insights.png)
+![Screen capture of CodeSee's insights, showing different types](img/insights.gif)
 
 Below the File Browser, you'll find three insight types:
 
@@ -48,7 +46,7 @@ Pan across your Map with your mouse’s scroll wheel or by clicking and dragging
 
 You can activate Panning Mode by clicking on the Pan button, represented by a hand icon:
 
-![Screenshot of CodeSee's pan icon](img/pan-icon.png)
+![Screen capture of CodeSee's panning and zooming](img/pan-and-zoom.gif)
 
 This will allow you to pan your Map by clicking and dragging. To return to node selection mode, click on the arrow icon.
 
@@ -115,10 +113,11 @@ To add a new label to the legend:
 You can use labels to designate and color-code team ownership, indicate different codebase features, mark hotspots or tech debt, or whatever would be useful to you.
 
 To assign colors to files or folders:
+
 1. Click the “Color” tool, then choose the color you’d like to paint with.
 1. Click on the files or folders you want to paint with that selected color.
 
-<!-- [visuals of legend + coloring nodes] -->
+![Animated screenshot showing creating a new label, setting its color, and using the color tool to set the colors on nodes](img/colors-and-labels.gif)
 
 ### Right-Click Menu
 
@@ -154,7 +153,7 @@ To add notes to files or folders:
 
 Notes on folders are available only when the folder is collapsed.
 
-<!-- [visual of Notes tool] -->
+![Screenshot of CodeSee's Notes Tool](img/notes-tool.png)
 
 ### Duplicate a Map
 
