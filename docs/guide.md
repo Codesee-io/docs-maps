@@ -54,8 +54,6 @@ You can also zoom in and out with the zoom controls at the bottom-right of the M
 
 ![Screenshot of CodeSee's zooming functionality](img/zooming.png)
 
-<!-- [visual of zooming] -->
-
 ## Editing your Map
 
 If you are the owner of a Map, you also have tools to create annotations to help your team onboard to the codebase, understand team ownership, or learn key flows.
@@ -73,15 +71,15 @@ Tours are a way to create asyncronous, visual walkthroughs on a Map. Tours can b
 [Here's a video of all of Tours!](https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov)
 
 
-To create a tour:
+To create a Tour:
 
 1. Click on the ![tours icon](img/compass.png) in your left tool bar.
 2. Click Add a Tour.
-3. Provide a name for your tour.
-4. Click Add a Step.
-5. Click the node in the Map where you want to place the first step of your tour.
-6. Add a description to the tour step.
-7. Go back to step 4 and create as many tour steps as you'd like.
+3. Provide a name for your Tour.
+4. Click "Add a Step."
+5. Click the node in the Map where you want to place the first step of your Tour.
+6. Add a description to the Tour step.
+7. Go back to step 4 and create as many Tour steps as you'd like!
 
 Additional tour options:
 
@@ -95,8 +93,8 @@ Viewing a Tour:
 Tours will automatically display on the Map. 
 
 Switch to view another Tour:
-1. Select the dropdown next to the name of your tour.
-2. Select which tour you would like to view.
+1. Select the dropdown next to the name of your Tour.
+2. Select the Tour you would like to view.
 
 
 ### Labels and colors
@@ -107,13 +105,13 @@ To add a new label to the legend:
 
 1. Click “Add a new label.”
 1. Click on the placeholder text “New Label” to edit the text for the label at any time.
-1. Click the colored tile on the left to select a color.
+1. Click the colored tile on the left to select a color for files and folders with that Label.
 
 You can use labels to designate and color-code team ownership, indicate different codebase features, mark hotspots or tech debt, or whatever would be useful to you.
 
 To assign colors to files or folders:
 
-1. Click the “Color” tool, then choose the color you’d like to paint with.
+1. Click the Color tool, then select the color you’d like to use.
 1. Click on the files or folders you want to paint with that selected color.
 
 ![Animated screenshot showing creating a new label, setting its color, and using the color tool to set the colors on nodes](img/colors-and-labels.gif)
@@ -142,21 +140,19 @@ This will allow annotating items.
 
 ### Notes
 
-Use the Notes tool to add additional context to any file and folder.
-
-To add notes to files or folders:
+Use the Notes tool to add additional context to any file and folder. 
 
 1. Click on the “Notes” tool.
 1. Click on the file or folder you would like to annotate.
-1. Type your note, then press “Return” to add it to the file or folder.
+1. Type your note, then press "Enter" on your keyboard to add it to the file or folder.
 
-Notes on folders are available only when the folder is collapsed.
+> Notes on folders are available only when the folder is collapsed.
 
 ![Screenshot of CodeSee's Notes Tool](img/notes-tool.png)
 
 ### Duplicate a Map
 
-To create a copy of a Map, click on the overflow button (•••), then select “Duplicate map.”
+To create a copy of a Map, click on the overflow button (•••), then select “Duplicate.”
 
 > Note: Create filtered views to share by selecting specific parts of your diagram to show and hide via the [File Browser](#file-browser) or the [Right-Click Menu](#right-click-menu).
 
@@ -164,38 +160,32 @@ To create a copy of a Map, click on the overflow button (•••), then select
 
 ## Real-time Collaboration 
 
-Real-time Collaboration allows multiple users to collaborate on a Map at the same time. All edits to the Map are automatically saved—unless you are in Explorer mode.
-
-Users will see an avatar circle with an initial. Two circles display where the Save icon used to exist, with one representing the other users who are active in the Map.
-
-Users actively collaborating in the Map are represented with avatars containing their initial.
+Real-time Collaboration allows multiple users to make changes to a Map at the same time. Users actively collaborating in the Map are represented with avatars containing their initial. All edits to the Map are automatically saved—unless you are in Explorer mode.
 
 <!-- visual of the display -->
 
 ## Sharing your Map
 
-If you’re the owner of the Map, you can share it with others.
+If you are the owner of the Map, you can share it with others.
 
 ### Share Settings
 
-The share settings below affect only the visibility of the Map. Only you, as the owner, will be able to edit it.
-
-![CodeSee Maps Share Menu Modal](img/share-menu.png)
-
 To change the share settings of your Map:
 
-1. Click “Share.”
-1. To share the Map with specific individuals: 
+1. Click the “Share” button located on the top right-hand side of the app.
+1. To share the Map with specific **individuals**: 
     1. Enter the individual's email address. 
     2. Grant the individual permission to Read (view only) or Write (view and edit) by using the dropdown. 
     3. Hit enter on your keyboard. 
-1. To share the Map with a group, select one of the following options:
+1. To share the Map with a **group**, select one of the following options:
     1. My Personal Team
         1. Only members of your specific CodeSee team can view the Map. Team members will see the diagram on their Maps dashboard.
     1. The GitHub Repository 
         1. Only members of your organization on GitHub can view the Map. GitHub repository members will see the diagram on their Maps dashboard.
     1. Everyone
         1. Anyone with the link can view the Map. GitHub repository members will see the diagram on their Maps dashboard.
+
+![CodeSee Maps Share Menu Modal](img/share-menu.png)
 
 ### Permissions
  
