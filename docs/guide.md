@@ -1,6 +1,6 @@
 # User Guide
 
-Your CodeSee Map is an interactive, editable diagram that shows all of the codebase dependencies across your repository.
+Your CodeSee Map is an interactive, editable architecture diagram that shows all of the codebase dependencies across your repository.
 
 ## Exploring your Map
 
@@ -73,7 +73,6 @@ Tours are a way to create asyncronous, visual walkthroughs on a Map. Tours can b
 [Here's a video of all of Tours!](https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov)
 
 
-
 To create a tour:
 
 1. Click on the ![tours icon](img/compass.png) in your left tool bar.
@@ -87,15 +86,15 @@ To create a tour:
 Additional tour options:
 
 1. Click on the ellipses to:
-- Add a second tour.
-- Rename a tour.
-- Delete a tour.
+* Add a second tour.
+* Rename a tour.
+* Delete a tour.
 
 Viewing a Tour:
 
 Tours will automatically display on the Map. 
 
-Switch to view another tour:
+Switch to view another Tour:
 1. Select the dropdown next to the name of your tour.
 2. Select which tour you would like to view.
 
@@ -165,37 +164,42 @@ To create a copy of a Map, click on the overflow button (•••), then select
 
 ## Real-time Collaboration 
 
-When Real-time Collaboration is enabled, multiple users can collaborate on a Map at the same time. Users will realize all edits to the Map are active—there is no Revert or Save. On a Team or Enterprise tier, you can share a document and provide editor status across a team.
+Real-time Collaboration allows multiple users to collaborate on a Map at the same time. All edits to the Map are automatically saved—unless you are in Explorer mode.
 
-Users will see an avatar circle with an initial. Two circles display where the Save icon used to exist, with one representing the other users who are active in the Map:
+Users will see an avatar circle with an initial. Two circles display where the Save icon used to exist, with one representing the other users who are active in the Map.
+
+Users actively collaborating in the Map are represented with avatars containing their initial.
 
 <!-- visual of the display -->
- 
-All changes are automatically persisted to the server, unless you are in Explorer mode, which allows you to interact with the Map without automatically saving changes. 
 
 ## Sharing your Map
 
-If you’re the owner of the Map, you can share it with others. This can help your team with onboarding or alignment.
+If you’re the owner of the Map, you can share it with others.
 
-### Share settings
+### Share Settings
 
 The share settings below affect only the visibility of the Map. Only you, as the owner, will be able to edit it.
 
-![Screenshot of CodeSee's Share Menu Popup](img/share-menu.png)
+![CodeSee Maps Share Menu Modal](img/share-menu.png)
 
 To change the share settings of your Map:
 
 1. Click “Share.”
-1. Select one of these options:
-    1. GitHub Organization
-        1. Only members of your organization on GitHub with the link can view the diagram. GitHub repository members will see the diagram in “Your Maps.”
-    1. Public
-        1. Anyone with the link can view this diagram. GitHub repository members will see the diagram in “Your Maps.”
-    1. Community
-        1. Anyone with the link can view this diagram. GitHub repository members will see the diagram in “Your Maps.” Anyone can find it from the CodeSee Community page.
+1. To share the Map with specific individuals: 
+    1. Enter the individual's email address. 
+    2. Grant the individual permission to Read (view only) or Write (view and edit) by using the dropdown. 
+    3. Hit enter on your keyboard. 
+1. To share the Map with a group, select one of the following options:
+    1. My Personal Team
+        1. Only members of your specific CodeSee team can view the Map. Team members will see the diagram on their Maps dashboard.
+    1. The GitHub Repository 
+        1. Only members of your organization on GitHub can view the Map. GitHub repository members will see the diagram on their Maps dashboard.
+    1. Everyone
+        1. Anyone with the link can view the Map. GitHub repository members will see the diagram on their Maps dashboard.
 
 ### Permissions
  
-Users who are administrators on the Teams account—the individual who has upgraded the account—can then assign Team roles: Administrator, Collaborator/Editor, and Viewer. Roles are set and Team names can be set. 
- 
-Custom roles and permissions settings will be possible through the Enterprise license. With Groups permissions, for example, “Share this Map with all managers.” All Groups members have to have existing Maps accounts.
+Users who are owners on a Teams account can assign one of the following roles to other team members:  
+* Owner (may be given Read or Write access)
+* Collaborator (may be given Read or Write access)
+* Viewer (may be given Read access only)
