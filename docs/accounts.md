@@ -5,7 +5,7 @@ Every CodeSee Maps user starts off with a personal account that allows them to e
 1. Click "Add new account" in the top-right corner of the drop-down menu in your interface. 
 1. Select an "Individual" CodeSee plan.
 1. On the "Set up your account" modal, enter a name for your account.
-1. Invite members by providing email addresses. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
+1. Input email addresses of members you'd like to invite to your Team. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
 1. You now have the option to [transfer Maps](https://docs.codesee.io/en/latest/accounts/#transfer-a-map) to your new account.
 
 ### Individual Account Share Permissions
@@ -20,7 +20,7 @@ Every CodeSee Maps user starts off with a personal account that allows them to e
 1. Click "Add new account" in the top-right corner of the drop-down menu in your interface. 
 1. Select a "Team" CodeSee plan.
 1. On the "Set up your account" modal, enter a name for the account.
-1. Invite members by providing email addresses. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
+1. Input email addresses of members you'd like to invite to your Team. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
 1. You now have the option to [transfer Maps](https://docs.codesee.io/en/latest/accounts/#transfer-a-map) to your new account.
 
 > The CodeSee user creating the new team account will be the Owner of the account. This role cannot be transferred.  
