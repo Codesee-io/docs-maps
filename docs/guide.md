@@ -159,15 +159,16 @@ To create a copy of a Map, click on the overflow button (•••), then select
 
 As a Map Owner or Collaborator, you can share it with others.
 
-To change the share settings of your Map, click the “Share” button located on the top-right corner of the interface: 
+To change the share settings of your Map, click the “Share” button located on the top-right corner of the interface. You'll see the following modal appear: 
 
 ![CodeSee Maps Share Menu Modal](img/share-menu.png)
 
 ### Sharing With Individuals
 
 To share the Map with specific **individuals**:
+
 1. Enter the email addresses of individuals you would like to invite. Press the tab or enter key after each email address. 
-1. Once all email addresses have been entered, hit return once more to submit. 
+2. Once all email addresses have been entered, hit return once more to submit. 
 
 #### Individual Share Permissions 
 
@@ -180,12 +181,10 @@ To share the Map with specific **individuals**:
 ### Sharing With Groups
 
 To share the Map with a **group**, select from the following options:
-1. **Your Team**
-Only members of your CodeSee Team will be able to view the Map. Team members will see the Map on their CodeSee dashboard.
-1. **The GitHub Repository**
-Only those with Read (or more) access to the GitHub repository can view the Map. GitHub repository members will see the Map on their CodeSee dashboard.
-1. **Everyone**
-Anyone with the link can view the Map. 
+
+1. **Your Team**—Only members of your CodeSee Team will be able to view the Map. Team members will see the Map on their CodeSee dashboard.
+2. **The GitHub Repository**—Only those with Read (or more) access to the GitHub repository can view the Map. GitHub repository members will see the Map on their CodeSee dashboard.
+3. **Everyone**—Anyone with the link can view the Map. 
 
 #### Group Share Permissions 
 
