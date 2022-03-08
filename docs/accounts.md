@@ -1,4 +1,4 @@
-Every CodeSee Maps user starts off with a personal account that allows you to experience the capabilities of Codebase and Review Maps. To begin collaborating with others using Maps, you can invite others to join a personal or professional team. 
+Every CodeSee Maps user starts off with a personal account that allows them to experience the capabilities of Codebase and Review Maps. To begin collaborating with others using Maps, invite individuals to join a personal or professional team. 
 
 ## Creating Individual Accounts
 
@@ -6,7 +6,7 @@ Every CodeSee Maps user starts off with a personal account that allows you to ex
 1. Select an "Individual" CodeSee plan.
 1. On the "Set up your account" modal, enter a name for your account.
 1. Invite members by providing email addresses. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
-1. You now have the option to transfer Maps to your new account.
+1. You now have the option to [transfer Maps](https://docs.codesee.io/en/latest/accounts/#transfer-a-map) to your new account.
 
 ### Individual Account Share Permissions
 
@@ -21,7 +21,7 @@ Every CodeSee Maps user starts off with a personal account that allows you to ex
 1. Select a "Team" CodeSee plan.
 1. On the "Set up your account" modal, enter a name for the account.
 1. Invite members by providing email addresses. As account Owner, you can decide on the level of Maps access you'd like to grant them. 
-1. You now have the option to transfer Maps to your new account.
+1. You now have the option to [transfer Maps](https://docs.codesee.io/en/latest/accounts/#transfer-a-map) to your new account.
 
 > The CodeSee user creating the new team account will be the Owner of the account. This role cannot be transferred.  
 
