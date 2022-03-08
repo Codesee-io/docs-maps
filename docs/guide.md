@@ -69,13 +69,13 @@ Playground Mode allows users to freely experiment with ideas on a Map—no chang
 
 > Collaborators have access to all Modes, whereas Viewers have access to only View and Playground.
 
-## Tours
+### Tours
 
 Tours are a way to create asynchronous, visual walkthroughs on a Map. Tours can be used for anything that comes to mind, showing where features are, tricky flows through files, helping to debug, and more.
 
 [Here's a video of all of Tours!](https://user-images.githubusercontent.com/9168902/134231069-0f8542ec-87b2-4edb-98e6-6d4401d62ae2.mov)
 
-### Create Tours
+#### Create Tours
 
 1. Click on the Tours icon on your left toolbar.
 1. Click "Add a Tour."
@@ -85,7 +85,7 @@ Tours are a way to create asynchronous, visual walkthroughs on a Map. Tours can 
 1. Add a description to the Tour step.
 1. Go back to Step 4 and create as many Tour steps as you'd like!
 
-### View Tours
+#### View Tours
 
 Tours will automatically display at the top of your Map interface.
 
@@ -93,7 +93,7 @@ To navigate between multiple Tours:
 1. Select the dropdown next to the name of your Tour. 
 1. Select the Tour you would like to view.
 
-### Additional Tour Options
+#### Additional Tour Options
 
 Click on the overflow button (•••) in the toolbar to:
 * Add a second Tour.
@@ -123,16 +123,16 @@ To assign colors to files or folders:
 
 By right-clicking on a file or folder, you'll get the following options:
 
-### Hide selected items
+#### Hide selected items
 This will hide the items you've selected from the Map.
 
-### Show only selected items
+#### Show only selected items
 This will hide all items that are not selected.
 
-### Show all
+#### Show all
 This will show all files and folders.
 
-### Add/edit note
+#### Add/edit note
 This will allow annotating items.
 
 ### Notes
@@ -163,13 +163,13 @@ To change the share settings of your Map, click the “Share” button located o
 
 ![CodeSee Maps Share Menu Modal](img/share-menu.png)
 
-## Sharing With Individuals
+### Sharing With Individuals
 
 To share the Map with specific **individuals**:
 1. Enter the email addresses of individuals you would like to invite. Press the tab or enter key after each email address. 
 1. Once all email addresses have been entered, hit return once more to submit. 
 
-### Individual Share Permissions 
+#### Individual Share Permissions 
 
 | Account Role         | Map Permissions         | 
 |--------------|----------------|
@@ -177,7 +177,7 @@ To share the Map with specific **individuals**:
 | Collaborator       |  Read, Write | 
 | Viewer       | Read           |
 
-## Sharing With Groups
+### Sharing With Groups
 
 To share the Map with a **group**, select from the following options:
 1. **Your Team**
@@ -187,7 +187,7 @@ Only those with Read (or more) access to the GitHub repository can view the Map.
 1. **Everyone**
 Anyone with the link can view the Map. 
 
-### Group Share Permissions 
+#### Group Share Permissions 
 
 | Group Type        | Map Permissions                                           | 
 |-------------------|-----------------------------------------------------------|
