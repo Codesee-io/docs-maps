@@ -1,4 +1,4 @@
-Every CodeSee Maps user starts off with a personal account that allows them to experience the capabilities of Codebase and Review Maps. To begin collaborating with others using Maps, invite individuals to join a personal or professional team. 
+Every CodeSee Maps user starts off with a personal account that allows them to experience the capabilities of Codebase and Review Maps. To begin collaborating in real-time with others using Maps, follow the steps outlined below. 
 
 ## Creating Individual Accounts
 
