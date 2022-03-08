@@ -4,6 +4,8 @@ nav:
     - Introduction: index.md
   - 🛠 Installation:
     - Overview: installation.md
+  - 👥 Accounts:
+    - Overview: accounts.md
   - 🚀 Using CodeSee:
     - User Guide: guide.md
     - Review Maps: prs.md
