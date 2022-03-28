@@ -90,7 +90,7 @@ As the **reviewer** of the pull request, you can view a Review Map Tour to glean
 1. Click 'Start' to begin, and navigate through the 'Next' and 'Previous' buttons to walkthrough the Tour. 
 1. Proceed to leave comments as required and complete your review of the pull request.
 
-![Full Review Map Tour experience](take-tour-flow.gif)
+![Full Review Map Tour experience](img/take-tour-flow.gif)
 
 ### Editing Review Map Tours 
 
