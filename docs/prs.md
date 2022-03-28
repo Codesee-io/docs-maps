@@ -72,6 +72,30 @@ The layout of a Review Map is automatically generated. However, we've introduced
 
 <img alt="Setting to toggle the ability to reposition nodes in Review Maps" src="../img/review-map-layout-mode.png" width="256">
 
+## Review Map Tours 
+
+With Review Map Tours, create step-by-step, visual walkthroughs of changes. Pull request authors can offer insight into coding decisions and provide review guidance, like where to begin and how to navigate tricky logic—alerting reviewers on what’s relevant and reducing file switching.
+
+As the **author** of the pull request, you can create a Review Map Tour using comments:
+
+1. Open the CodeSee Review Map linked in your pull request, or log in to Maps, toggle to the Review Maps page, and select a Review Map.
+1. Identify what you’d like to communicate to the reviewer. This will help you determine how and where to begin placing the Tour to your code.
+1. Double-click the file in your Map where you’d like to begin, opening the code diff. Select a line or section of the code, write your comment, and click 'Add comment', or choose a comment that’s already present. You can use each step of your Tour to offer insight into your coding decisions, provide review tips, and request guidance from the reviewer.
+1. To add a comment as a step in your Tour, click the ‘In Tour’ toggle in the lower-right corner of the comment—a new Tour step will appear in the left panel of your interface. 
+
+As the **reviewer** of the pull request, you can view a Review Map Tour to glean additional context about the PR.
+
+1. Open the CodeSee Review Map linked in your pull request, or log in to Maps, toggle to the Review Maps page, and select a Review Map.
+1. On the left panel of your interface, shift the toggle from 'Description' to 'Tour' to access the Review Map Tour. 
+1. Click 'Start' to begin, and navigate through the 'Next' and 'Previous' buttons to walkthrough the Tour. 
+1. Proceed to leave comments as required and complete your review of the pull request.
+
+![Full Review Map Tour experience](take-tour-flow.gif)
+
+### Editing Review Map Tours 
+
+As the author of the pull request, you can edit inline, reorder steps in the Tour by clicking and holding the small grid in the upper-right corner of each step, or remove Tour steps by clicking 'Remove from Tour' in the lower-left corner. Your Review Map Tour will automatically save as you work and be visible to anyone who has permission to view the Review Map.
+
 ## Submit A Code Review
 
 Click the “Review” button in the header to make a final review comment approving, requesting changes, or commenting on the pull request. 
