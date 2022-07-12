@@ -1,3 +1,5 @@
+> This repository is archived. We've moved our docs to a different platform.
+
 # CodeSee Maps Documentation
 This is the documentation website repo for CodeSee, a tool to help you visually understand your codebase.
 
